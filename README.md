@@ -1,3 +1,5 @@
+**THIS VERSION OF THE APP HAS BEEN DISCONTINUED, NO FUTURE UPDATES WILL BE RECEIVED**
+
 # 🎵 BMA – Basic Music App
 
 A secure, self-hosted music streaming solution built in Go (Desktop & CLI) and Kotlin (Android).
